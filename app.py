@@ -8,7 +8,7 @@ from PIL import Image
 import base64
 
 # Streamlit Seitenkonfiguration
-st.set_page_config(page_title="Maya-Horoskop", layout="wide", , page_icon="⭐")
+st.set_page_config(page_title="Maya-Horoskop", layout="wide", page_icon="⭐")
 
 # OpenAI API-Schlüssel Setup
 # Zugriff auf den API-Schlüssel aus den Streamlit-Secrets
