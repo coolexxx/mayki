@@ -8,7 +8,7 @@ from PIL import Image
 import base64
 
 # Streamlit Seitenkonfiguration
-st.set_page_config(page_title="Französisch Sprachlern-App", layout="wide")
+st.set_page_config(page_title="Maya-Horoskop", layout="wide")
 
 # OpenAI API-Schlüssel Setup
 # Zugriff auf den API-Schlüssel aus den Streamlit-Secrets
